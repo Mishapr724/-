@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color:mediumturquoise;
+}
+header a{
+    text-decoration: none;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius:5px ;
+    font-size:30px ;
+    padding:5px;
+    color:white ;
+    background-color:rgb(131, 5, 131) ;
+}
+.link-nav{
+    background-color: rebeccapurple;
+    color: skyblue; 
+    border:3px dashed blue ;
+    margin:20px ;
+}
+.link-text{
+    text-decoration: none;
+   border: 3px solid rgba(0, 0, 0, 0.534);
+    border-radius:5px ;
+    font-size:20px ;
+    padding:5px ;
+    color:white ;
+    background-color:purple ;
+}
